@@ -1,0 +1,9 @@
+User-Agent: bingbot
+Crawl-delay: 5
+
+User-Agent: msnbot-media
+Crawl-delay: 5
+
+User-agent: *
+Disallow: /*_s.jpg$
+Disallow: /*/buddyicons/*.jpg
